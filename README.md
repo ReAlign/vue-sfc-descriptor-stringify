@@ -1,0 +1,1 @@
+# vue-sfc-descriptor-stringify
